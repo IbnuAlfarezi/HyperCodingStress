@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhamad ibnu al farezi ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad ibnu al farezi ramadhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stresscodingcok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stresscodingcok" height="30" width="40" /></a>
-<a href="https://instagram.com/ibnualfarezii@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibnualfarezii" height="30" width="40" /></a>
+<a href="https://instagram.com/ibnualfarezii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibnualfarezii" height="30" width="40" /></a>
 <a href="https://discord.gg/nuuu#0502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nuuu#0502" height="30" width="40" /></a>
 </p>
 
