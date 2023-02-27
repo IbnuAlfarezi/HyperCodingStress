@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypercodingstress&label=Profile%20views&color=0e75b6&style=flat" alt="hypercodingstress" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypercodingstress" alt="hypercodingstress" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypercodingstress&theme=chalk" alt="hypercodingstress" /></a> </p>
 
 - 🔭 I’m currently working on **kopegtel website**
 
