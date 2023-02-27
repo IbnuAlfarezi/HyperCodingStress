@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Ibnu Al Farezi Ramadhan</h1>
 <h3 align="center">I'm a student at Mulawarman University, interested in technology and UI design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypercodingstress&label=Profile%20views&color=0e75b6&style=flat" alt="hypercodingstress" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo-ma&label=Profile%20views&color=0e75b6&style=flat" alt="hypercodingstress" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk" alt="hypercodingstress" /></a> </p>
 
