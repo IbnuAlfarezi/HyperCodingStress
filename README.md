@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **UI/UX,Laravel,Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HyperCodingStress](https://github.com/HyperCodingStress)
+- 👨‍💻 All of my projects are available at [https://github.com/HyperCodingStress](https://github.com/IbnuAlfarezi)
 
 - 💬 Ask me about **Java Android, Python**
 
